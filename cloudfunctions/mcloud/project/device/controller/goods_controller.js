@@ -1,7 +1,7 @@
 /**
  * Notes: 商品模块控制器
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
- * Date: 2023-12-07 04:00:00 
+ * Date: 2025-12-07 04:00:00 
  */
 
 const BaseProjectController = require('./base_project_controller.js');
